@@ -1,6 +1,6 @@
 import math
 
-def calcular_pi(numero_de_iteracoes):
+def calcular_pin(numero_de_iteracoes):
   """
   Calcula a aproximação de π usando a série de Madhava-Leibniz.
 
@@ -27,4 +27,4 @@ def calcular_pi(numero_de_iteracoes):
 
 numero_de_iteracoes = int(input("Digite o número de iterações: "))
 
-calcular_pi(numero_de_iteracoes)
+calcular_pin(numero_de_iteracoes)

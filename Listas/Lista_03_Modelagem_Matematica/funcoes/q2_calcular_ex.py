@@ -1,4 +1,3 @@
-
 import math
 
 def calcular_ex(x, numero_de_iteracoes):
