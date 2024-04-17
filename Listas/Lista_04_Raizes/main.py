@@ -5,7 +5,6 @@
 # E-mail        : andre.escariao1@gmail.com                   #
 # ----------------------------------------------------------- #
 
-
 from menu.menu import menu
 
 def main():

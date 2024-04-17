@@ -1,3 +1,11 @@
+# Função em Python capaz de calcular a aproximação de uma raiz usando 
+# o método da Falsa Posição
+# a) 𝑓(𝑥) = 2𝑥^2 − 4𝑥. Intervalo: 𝑥1 = −0.5 e 𝑥2 = 0.5.
+# b) 𝑓(𝑥) = 3𝑥^2 + 2𝑥 − 2. Intervalo 𝑥1 = 0 e 𝑥2 = 1.
+# c) 𝑓(𝑥) = 2𝑥^3 + 𝑥^2 + 2𝑥 − 1. Intervalo: 𝑥1 = 0 e 𝑥2 = 1.
+# d) 𝑓(𝑥) = 𝑥^3 + 2𝑥 − 30. Intervalo: 𝑥1 = 2 e 𝑥2 = 3.
+# e) 𝑓(𝑥) = 42𝑥^2−5𝑥 − 3. Intervalo: 𝑥1 = −0.25 e 𝑥2 = 0.15.
+
 import math
 
 def fposicao(funcao, xa, xb, n_int, best_apro):

@@ -1,3 +1,8 @@
+# Função em Python capaz de calcular a aproximação de uma raiz usando
+# o método da Secante Modificado
+# a) 𝑓(𝑥) = 2𝑥^2 − 4𝑥. Ponto: 𝑥𝑖 = −0.5
+# b) 𝑓(𝑥) = 4𝑥^2 − 6𝑥. Ponto: 𝑥𝑖 = 1.5
+
 import math
 
 def secantemod(funcao, xi, d, n_int, best_apro):

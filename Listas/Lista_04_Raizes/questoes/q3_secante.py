@@ -1,3 +1,8 @@
+# Função em Python capaz de calcular a aproximação de uma raiz usando 
+# o método da Secante.
+# a) 𝑓(𝑥) = 2𝑥^2 − 4𝑥. Pontos: 𝑥0 = −0.5 e 𝑥1 = −1.
+# b) 𝑓(𝑥) = 4𝑥^2 − 6𝑥. Pontos: 𝑥0 = 1.5 e 𝑥1 = 2.
+
 import math
 
 def secante(funcao, xi, xim1, n_int, best_apro):

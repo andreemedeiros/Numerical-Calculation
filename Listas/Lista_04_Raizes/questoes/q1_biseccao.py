@@ -1,3 +1,10 @@
+# Função em Python capaz de calcular a aproximação de uma raiz usando
+# o método da Bisseção.
+# a) 𝑓(𝑥) = 3𝑥^2 + 2𝑥 − 2. Intervalo: 𝑥1 = 0 e 𝑥2 = 1.
+# b) 𝑓(𝑥) = 2𝑥^3 + 𝑥^2 + 2𝑥 − 1. Intervalo: 𝑥1 = 0 e 𝑥2 = 1.
+# c) 𝑓(𝑥) = 𝑥^3 + 2𝑥 − 30. Intervalo: 𝑥1 = 2 e 𝑥2 = 3
+# d) 𝑓(𝑥) = 4−𝑥 − 𝑥. Intervalo: 𝑥1 = −2 e 𝑥2 = 1.
+
 import math
 
 # Definindo a função de bisseção

@@ -1,3 +1,9 @@
+# Menu para seleção das questões:
+# 1 - Questão 01:  método da Bisseção;
+# 2 - Questão 02: método da Falsa Posição;
+# 3 - Questão 03: método da Secante;
+# 4 - Questão 04: método da Secante Modificado.
+
 import sys
 
 from menu.interface import interface
