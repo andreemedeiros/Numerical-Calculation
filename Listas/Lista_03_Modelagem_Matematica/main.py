@@ -1,7 +1,7 @@
 # ----------------------------------------------------------- #
 # Lista 03 - Modelagem Matemática                             #
 # Autor         : André Medeiros                              #
-# Criação       : 20/03/24                                    #
+# Criação       : 02/03/24                                    #
 # E-mail        : andre.escariao1@gmail.com                   #
 # ----------------------------------------------------------- #
 import sys
